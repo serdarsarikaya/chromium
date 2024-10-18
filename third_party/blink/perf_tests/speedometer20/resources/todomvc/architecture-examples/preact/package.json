@@ -36,7 +36,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "classnames": "^2.2.5",
+    "classnames": "^2.5.1",
     "linkstate": "^1.0.1",
     "preact": "^8.2.1",
     "preact-router": "^2.5.5",
