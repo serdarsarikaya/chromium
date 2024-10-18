@@ -38,7 +38,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "linkstate": "^1.0.1",
-    "preact": "^8.2.1",
+    "preact": "^8.5.3",
     "preact-router": "^2.5.5",
     "todomvc-app-css": "^2.0.3",
     "todomvc-common": "^1.0.2"
