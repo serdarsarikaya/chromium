@@ -9,3 +9,5 @@ tensorflow-hub
 tensorflow-model-optimization<0.8.0
 tensorflow-text
 tf-models-official>=2.13.2,<2.16.0
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
